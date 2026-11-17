@@ -13,33 +13,33 @@
 ### 🚀 Tecnologias e ferramentas
 
 **Linguagens de programação**
-C
-C++
-C#
-Java
-Python
-JavaScript
+C,
+C++,
+C#,
+Java,
+Python,
+JavaScript,
 R
 
 
 **Desenvolvimento Web**
-HTML5
-CSS3
+HTML5,
+CSS3,
 PHP
 
 
 
 **Banco de Dados**
-MySQL
+MySQL,
 SQL
 
 
 **Ferramentas**
-VScode
-Claude
-Linux
-PyCharm
-intellij
+VScode,
+Claude,
+Linux,
+PyCharm,
+intellij,
 GitHub
 
 
