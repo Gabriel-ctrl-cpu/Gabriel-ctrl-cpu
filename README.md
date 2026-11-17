@@ -1,29 +1,78 @@
-##Gabriel
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitinh0z)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:contato@vitinh0z.dev)
-[![Chess.com](https://img.shields.io/badge/-Chess.com-5C8D3E?style=flat-square&logo=chess.com&logoColor=white)](https://www.chess.com/member/vitinh0z)
+# Olá, eu sou o Gabriel Henrique!
 
+### Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas
 
-<hr>
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=22jjajmyfl2jb5ntdqrz3pkny&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22jjajmyfl2jb5ntdqrz3pkny&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=true&mode=dark">
-  </a>
-</p>
-<hr>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Campinas.
 
-### Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
----
-### Estatísticas
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitinh0z&hide_border=true&theme=dracula" />
-</p>
+💻 Interessado em desenvolvimento de software, tecnologia e análise de dados.
+
+📚 Sempre buscando aprimorar meus conhecimentos e desenvolver projetos que transformem ideias em soluções práticas.
 
 ---
-See you, space cowboy...
+
+### 🚀 Tecnologias e ferramentas
+
+**Linguagens de programação**
+C
+C++
+C#
+Java
+Python
+JavaScript
+R
+\
+**Desenvolvimento Web**
+HTML5
+CSS3
+PHP
+\
+
+
+**Banco de Dados**
+MySQL
+SQL
+
+**Ferramentas**
+VScode
+Claude
+Linux
+PyCharm
+intellij
+GitHub
+\
+
+
+---
+
+### 📊 GitHub Statistics
+
+\<p align="center">
+&#x20; \<img height="165em" src="[https://github-readme-stats.vercel.app/api?username=Gabriel-ctrl-cpu&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=Gabriel-ctrl-cpu\&show_icons=true\&theme=tokyonight\&hide_border=true)"/>
+&#x20; \<img height="165em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-ctrl-cpu&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-ctrl-cpu\&layout=compact\&theme=tokyonight\&hide_border=true)"/>
+\</p>
+
+\<p align="center">
+&#x20; \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-ctrl-cpu&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-ctrl-cpu\&theme=tokyonight\&hide_border=true)"/>
+\</p>
+
+---
+
+### 🎯 Atualmente
+
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas.
+- 💻 Desenvolvendo projetos acadêmicos e pessoais.
+- 📊 Aprofundando conhecimentos em tecnologia e análise de dados.
+- ☁️ Estudando computação em nuvem.
+- 🚀 Em busca de uma oportunidade de estágio em Tecnologia da Informação.
+
+---
+
+### 📫 Contato
+
+\<p align="left">   \<a href="[https://www.linkedin.com/in/gabrielhenriquemartinsgomes](https://www.linkedin.com/in/gabrielhenriquemartinsgomes)">     \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>   \</a>   \<a href="mailto\:ghenriquemartins90\@gmail.com">     \<img src="[https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)"/>   \</a> \</p>
+
+---
+
+\<p align="center">
+&#x20; \<i>"Always learning, always building."\</i>
+\</p>
