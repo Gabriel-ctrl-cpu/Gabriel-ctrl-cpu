@@ -47,16 +47,18 @@ GitHub
 ---
 
 
+
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gabriel-ctrl-cpu&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-ctrl-cpu&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Gabriel-ctrl-cpu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gabriel-ctrl-cpu&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-ctrl-cpu&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Gabriel-ctrl-cpu&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 ---
@@ -86,6 +88,9 @@ GitHub
 
 ---
 
-\<p align="center">
-&#x20; \<i>"Always learning, always building."\</i>
-\</p>
+
+---
+
+<p align="center">
+  <i>Always learning, always building.</i>
+</p>
