@@ -21,6 +21,7 @@ Python
 JavaScript
 R
 \
+
 **Desenvolvimento Web**
 HTML5
 CSS3
@@ -31,6 +32,7 @@ PHP
 **Banco de Dados**
 MySQL
 SQL
+\ 
 
 **Ferramentas**
 VScode
